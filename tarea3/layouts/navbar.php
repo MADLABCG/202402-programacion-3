@@ -17,8 +17,8 @@ if ($pagina == "4") {
 }
 ?>
 <ul>
-    <li class="<?php echo $pagina1 ?>"><a href="../index.php">Home</a></li>
-    <li class="<?php echo $pagina2 ?>"><a href="../intereses.php">Intereses</a></li>
-    <li class="<?php echo $pagina3 ?>"><a href="../contactos.php">Contacto</a></li>
-    <li class="<?php echo $pagina4 ?>"><a href="../about.php">Quien Soy</a></li>
+    <li class="<?php echo $pagina1 ?>"><a href="index.php">Home</a></li>
+    <li class="<?php echo $pagina2 ?>"><a href="intereses.php">Intereses</a></li>
+    <li class="<?php echo $pagina3 ?>"><a href="contactos.php">Contacto</a></li>
+    <li class="<?php echo $pagina4 ?>"><a href="about.php">Quien Soy</a></li>
 </ul>

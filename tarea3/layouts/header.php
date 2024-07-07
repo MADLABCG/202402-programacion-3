@@ -7,6 +7,7 @@
     <title><?php echo $titulo ?></title>
 
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
 </head>
 
 <div class="navbar">
