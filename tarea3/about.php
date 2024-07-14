@@ -31,4 +31,6 @@
     </div>
 </body>
 
+<?php include 'layouts/footer.php'; ?>
+
 </html>
