@@ -46,7 +46,8 @@
                     <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                         <!-- Content -->
                         <h6 class="text-uppercase fw-bold">Proyecto Final Programación 3</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
                         <p>
                             Esto es una pagina web que incluye el uso de HTML, CSS y PHP, usando el motor de XAMPP como
                             ambiente de desarrollo.
@@ -64,7 +65,8 @@
                     <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                         <!-- Links -->
                         <h6 class="text-uppercase fw-bold">Navegación</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
                         <p>
                             <a href="index.php" class="text-dark">Home</a>
                         </p>
@@ -73,6 +75,9 @@
                         </p>
                         <p>
                             <a href="contactos.php" class="text-dark">Contacto</a>
+                        </p>
+                        <p>
+                            <a href="noticias.php" class="text-dark">Noticias</a>
                         </p>
                         <p>
                             <a href="about.php" class="text-dark">Quien Soy</a>
@@ -84,7 +89,8 @@
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                         <!-- Links -->
                         <h6 class="text-uppercase fw-bold">Universidad</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
                         <p><i class="fas fa-home mr-3"></i> Universidad Eugenio Maria de Hostos (UNIREMHOS)</p>
                         <p><i class="fas fa-envelope mr-3"></i> info@uniremhos.edu.do</p>
                         <p><i class="fas fa-phone mr-3"></i> + 809-532-3739</p>

@@ -1,9 +1,12 @@
 <?php $titulo = "Quien Soy"; ?>
-<?php $pagina = "4"; ?>
+<?php $pagina = "5"; ?>
 <?php include 'layouts/header.php'; ?>
 
 <body>
     <div class="container-fluid">
+        <p class="text-capitalize fw-bolder lh-lg text-primary fs-1 text">
+            Ivan Firestone
+        </p>
         <div class="info_personal">
             <div class="info">
                 Nombre: Ivan Firestone
