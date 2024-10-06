@@ -3,7 +3,7 @@
 <?php include 'layouts/header.php'; ?>
 
 <body>
-    <div class="container-fluid ">
+    <div class="container-fluid">
         <h1>Pasión por la Tecnología</h1>
         <div class="row">
             <div class="col-6">
@@ -12,6 +12,7 @@
                 </div>
             </div>
             <div class="col-6">
+                <h1>IVAN FIRESTONE</h1>
                 <p>La tecnología, en su constante evolución, se ha convertido en la fuerza motriz que impulsa el
                     cambio
                     en
